@@ -32,6 +32,7 @@ namespace ProgramadoCsharp
             Console.WriteLine("La suma es: "+suma);
             Console.WriteLine($"La suma de {a} + {b} = {suma}");
 
+            //Vincular ejercicio usando metodo
             E1Secuencial EJ1 = new E1Secuencial();
             EJ1.areatriangulo();
 
