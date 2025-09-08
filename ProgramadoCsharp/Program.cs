@@ -11,6 +11,7 @@ namespace ProgramadoCsharp
         static void Main(string[] args)
         {
             //Mostrar un mensaje
+            Console.WriteLine("Fundamentos de Algoritmos - 6414");
             Console.WriteLine("Bienvenido a C#");
             //--Definir variables--
             int a, b, suma;
