@@ -8,7 +8,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaS3", "PracticaS3\PracticaS3.csproj", "{3083D655-A4ED-405F-A54C-8D350EC85B80}"
 EndProject
 
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Participante", "Participante\Participante.csproj", "{2437F5D2-0EB4-46A0-B59C-95C31758274E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Participantes", "Participantes\Participantes.csproj", "{26EC0777-88EF-4DA8-93C5-BB195D389DBB}"
 
 EndProject
 Global
@@ -26,10 +26,10 @@ Global
 		{3083D655-A4ED-405F-A54C-8D350EC85B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3083D655-A4ED-405F-A54C-8D350EC85B80}.Release|Any CPU.Build.0 = Release|Any CPU
 
-		{2437F5D2-0EB4-46A0-B59C-95C31758274E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2437F5D2-0EB4-46A0-B59C-95C31758274E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2437F5D2-0EB4-46A0-B59C-95C31758274E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2437F5D2-0EB4-46A0-B59C-95C31758274E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EC0777-88EF-4DA8-93C5-BB195D389DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EC0777-88EF-4DA8-93C5-BB195D389DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EC0777-88EF-4DA8-93C5-BB195D389DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EC0777-88EF-4DA8-93C5-BB195D389DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
