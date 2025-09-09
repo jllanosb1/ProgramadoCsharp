@@ -5,11 +5,11 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 
-    <ProjectGuid>{79CC73D7-25D9-48BC-8A3B-B062B15B0754}</ProjectGuid>
+    <ProjectGuid>{2437F5D2-0EB4-46A0-B59C-95C31758274E}</ProjectGuid>
 
     <OutputType>Exe</OutputType>
-    <RootNamespace>participantes</RootNamespace>
-    <AssemblyName>participantes</AssemblyName>
+    <RootNamespace>Participante</RootNamespace>
+    <AssemblyName>Participante</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
