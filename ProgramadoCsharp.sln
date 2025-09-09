@@ -8,7 +8,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaS3", "PracticaS3\PracticaS3.csproj", "{3083D655-A4ED-405F-A54C-8D350EC85B80}"
 EndProject
 
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "participantes", "participantes\participantes.csproj", "{79CC73D7-25D9-48BC-8A3B-B062B15B0754}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "participantes", "ConsoleApp1\participantes.csproj", "{676A6BAE-6A09-481E-8362-81AF2EE1EE14}"
 
 EndProject
 Global
@@ -26,10 +26,10 @@ Global
 		{3083D655-A4ED-405F-A54C-8D350EC85B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3083D655-A4ED-405F-A54C-8D350EC85B80}.Release|Any CPU.Build.0 = Release|Any CPU
 
-		{79CC73D7-25D9-48BC-8A3B-B062B15B0754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79CC73D7-25D9-48BC-8A3B-B062B15B0754}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79CC73D7-25D9-48BC-8A3B-B062B15B0754}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79CC73D7-25D9-48BC-8A3B-B062B15B0754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676A6BAE-6A09-481E-8362-81AF2EE1EE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676A6BAE-6A09-481E-8362-81AF2EE1EE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676A6BAE-6A09-481E-8362-81AF2EE1EE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676A6BAE-6A09-481E-8362-81AF2EE1EE14}.Release|Any CPU.Build.0 = Release|Any CPU
 
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
