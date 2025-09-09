@@ -10,8 +10,11 @@ namespace Participante
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Eatudiante de la clase NRC - 6414");
+
+            Console.WriteLine("Estudiantes de la clase NRC - 6414 ");
+            Console.WriteLine("N00494936");
             Console.WriteLine("N00325063");
+
 
         }
     }
