@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 
-    <ProjectGuid>{26EC0777-88EF-4DA8-93C5-BB195D389DBB}</ProjectGuid>
+    <ProjectGuid>{C02DDF03-763D-420B-928D-9DE26C2281A4}</ProjectGuid>
 
     <OutputType>Exe</OutputType>
     <RootNamespace>Participantes</RootNamespace>
