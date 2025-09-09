@@ -11,6 +11,11 @@ namespace participantes
         static void Main(string[] args)
         {
 
+            Console.WriteLine("estudiantes de la clase NRC 6414");
+            Console.WriteLine("N00470620");
+
+
+
 
 
 
@@ -29,9 +34,10 @@ namespace participantes
             
             
             
-            Console.WriteLine("estudiantes de la clase NRC - 6414");
+
             Console.WriteLine("N00467127");
         }
     }
 }
                           
+
