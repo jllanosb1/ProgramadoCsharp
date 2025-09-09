@@ -10,8 +10,19 @@ namespace PracticaS3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("--Ejercicio Practica--");
+            Console.WriteLine("--Algoritmos con Estructuras Secuenciales--");
+            Console.WriteLine("Ejercicio 1");
+            /*
+             Calcular el costo de un viaje a una ciudad si el precio por km es s/2. Una persona ha viajado durante 5 horas un total de 244 km.
+            Estimae el monto que debe pagar por el viaje.
+             */
 
+            int precio_km = 2, km_viaje=244;
+            var monto_pagar = precio_km * km_viaje;
+
+            Console.WriteLine($"El costo por viajar {km_viaje} km es {monto_pagar} ");
+
+            Console.ReadKey();
         }
     }
 }
