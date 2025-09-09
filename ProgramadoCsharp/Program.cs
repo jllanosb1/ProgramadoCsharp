@@ -33,9 +33,20 @@ namespace ProgramadoCsharp
             Console.WriteLine("La suma es: "+suma);
             Console.WriteLine($"La suma de {a} + {b} = {suma}");
 
+
+            Console.WriteLine("--Algoritmos con Estructura Condicional--");
+            Console.WriteLine("ingrese su edad: ");
+            var edad = int.Parse(Console.ReadLine());
+            if (edad >= 18)
+            if (edad <= 17)
+
+            Console.WriteLine("ingresas al cine");
+            Console.WriteLine("no ingresas al cine");
+
             //Vincular ejercicio usando metodo
             E1Secuencial EJ1 = new E1Secuencial();
             EJ1.areatriangulo();
+
 
             //Pasuar para mostrar Resultados
             Console.ReadKey();
